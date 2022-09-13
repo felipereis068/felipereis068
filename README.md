@@ -2,19 +2,7 @@
 ## Hello, I’m Felipe Reis <img  height="30" width="40" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <br>
-<table align="center"> 
-  <a href="https://github.com/felipereis068">
-  <row>
-    <td>
-     <!-- Card -->
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipereis068&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis068&layout=compact&langs_count=7&theme=react"/>
-    </td>
-  </row>
-</table>
+
    
  
 #### Languages and Tools  <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
@@ -42,11 +30,21 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 </div>
 
- 
+ <table align="center"> 
+  <a href="https://github.com/felipereis068">
+  <row>
+    <td>
+     <!-- Card -->
+   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipereis068&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis068&layout=compact&langs_count=7&theme=react"/>
+    </td>
+  </row>
+</table>
 
 ![Snake animation](https://github.com/felipereis068/felipereis068/blob/output/github-contribution-grid-snake.svg)
-  
-  
   
   
 <div> 
