@@ -4,7 +4,6 @@
 <br>
 
    
- 
 #### Languages and Tools  <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
 
 <div align="center"  style="display: inline_block">
@@ -31,7 +30,7 @@
 </div>
 <br>
  <table align="center"> 
-  <a href="https://github.com/felipereis0689">
+  <a href="https://github.com/felipereis068">
   <row>
     <td>
      <!-- Card -->
@@ -44,7 +43,7 @@
   </row>
 </table>
 
-![Snake animation](https://github.com/felipereis0689/felipereis068/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/felipereis068/felipereis068/blob/output/github-contribution-grid-snake.svg)
   
   
 <div> 
