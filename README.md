@@ -1,12 +1,6 @@
 
 ## Hello, I’m Felipe Reis <img  height="30" width="40" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-
-<div align="center">
-  <a href="https://github.com/felipereis068">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis068&layout=compact&langs_count=7&theme=dracula"/>
-
 <br>
 
    
@@ -35,6 +29,16 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 </div>
 <br>
+
+<div align="center">
+6
+  <a href="https://github.com/felipereis068">
+7
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+8
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis068&layout=compact&langs_count=7&theme=dracula"/>
+
+
  <table align="center"> 
   <a href="https://github.com/felipereis068">
   <row>
