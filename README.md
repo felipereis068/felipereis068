@@ -31,7 +31,7 @@
 </div>
 <br>
  <table align="center"> 
-  <a href="https://github.com/felipereis068">
+  <a href="https://github.com/felipereis0689">
   <row>
     <td>
      <!-- Card -->
@@ -44,7 +44,7 @@
   </row>
 </table>
 
-![Snake animation](https://github.com/felipereis068/felipereis068/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/felipereis0689/felipereis068/blob/output/github-contribution-grid-snake.svg)
   
   
 <div> 
