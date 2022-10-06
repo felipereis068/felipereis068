@@ -3,6 +3,12 @@
 
 <br>
 
+<div align="center">
+  <a href="https://github.com/felipereis068">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipereis068&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis068&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
    
 #### Languages and Tools  <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
 
@@ -29,12 +35,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 </div>
 <br>
-<div>
-  <a href="https://github.com/felipereis068">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipereis068&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis068&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 
 ![Snake animation](https://github.com/felipereis068/felipereis068/blob/output/github-contribution-grid-snake.svg)
   
