@@ -2,16 +2,16 @@
 ## Hello, I’m Felipe Reis <img  height="30" width="40" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <br>
-![Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=felipereis068&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis068)](https://github.com/anuraghazra/github-readme-stats)
-   
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipereis068&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=felipereis068&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipereis068&langs=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
 #### Languages and Tools  <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
 
 
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipereis068&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=felipereis068&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <div align=""  style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
