@@ -6,7 +6,7 @@ Greetings, My name is Luis Felipe, I am 24 years old, and I currently live in Sa
 
 ---
 
-**`Programador / Administrador de Banco de Dados / Administrador de Redes`**
+**`Analise e Desenvolvimento de Sistemas / Administrador de Banco de Dados / Administrador de Redes`**
 
 Olá, Me chamo Luis Felipe, tenho 24 anos, atualmente residente sem Santa Catarina - Florianópolis/São José. Formado em Sistema de Informação. Ja trabalhei como Programador na Procuradoria Geral do Estado de Santa Caratarina e Administrador de Redes na Secretária de Estado de Administração. Tenho experiência tanto com Desenvolvimento de Sistemas, Administrador de Banco de dados e Administrador de Redes. Estou sempre procurando tecnologias e metodos novos para meu desenvolvimente profissional e pessoal.
 Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linkedin.com/in/luis-felipe-pereira-dos-reis-63756428b/)".
