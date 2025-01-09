@@ -2,12 +2,11 @@
 
 **`Desenvolvedor FullStack / Administrador de Banco de Dados `**
 
-Me chamo Luis Felipe, tenho 24 anos, atualmente residente sem Santa Catarina - Florianópolis/São José. Formado em Sistema de Informação. Atualmente, estou atuando como Programador na Procuradoria Geral do Estado de Santa Caratarina. Tenho experiência tanto com Desenvolvimento de Sistemas, Administração de Banco de dados e Administrador e Infraestrutura de Redes. Estou sempre procurando tecnologias e metodos novos para meu desenvolvimente profissional e pessoal.
+Me chamo Luis Felipe, tenho 24 anos, atualmente residente sem Santa Catarina - Florianópolis/São José. Formado em Sistema de Informação. Atualmente, estou atuando como Programador na Procuradoria Geral do Estado de Santa Caratarina. Tenho experiência tanto com Desenvolvimento de Sistemas, Administrador de Banco de dados e Administrador de Redes. Estou sempre procurando tecnologias e metodos novos para meu desenvolvimente profissional e pessoal.
 Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linkedin.com/in/luis-felipe-pereira-dos-reis-63756428b/)".
+
 <div> 
-
-
-  <a href="https://www.linkedin.com/in/luis-felipe-63756428b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/luis-felipe-63756428b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </a> 
 <a href = "mailto:felipereis0689@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/felipereis068/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -39,7 +38,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Django" 
@@ -48,8 +46,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
-
-
 <img 
     align="left" 
     alt="Postgres" 
@@ -58,7 +54,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
-
 <img 
     align="left" 
     alt="MySQL" 
@@ -123,7 +118,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -164,7 +158,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Gitlab" 
@@ -181,7 +174,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Postman" 
@@ -198,8 +190,12 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" 
 />
-<br/>
+<br>
+
+---
+
 ### 📊 Estatísticas
+
 </p>
 
   <img 
