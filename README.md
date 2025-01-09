@@ -198,19 +198,10 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
 <br/>
 <br/>
 <br/>
 
----
 
 ### 📊 Estatísticas
 </p>
