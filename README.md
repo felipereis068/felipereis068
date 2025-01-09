@@ -1,12 +1,12 @@
 # 👩🏻‍💻 Luis Felipe Reis
 
-**`Software developer / Database Administrator / Network Administrator`**
+**`Software developer | Database Administrator | Network Administrator`**
 
 Greetings, My name is Luis Felipe, I am 24 years old, and I currently live in Santa Catarina - Florianópolis/São José. I have a degree in Information Systems. I have worked as a Programmer at the Attorney General's Office of the State of Santa Catarina and as a Network Administrator at the State Secretariat of Administration. I have experience in Systems Development, Database Administration and Network Administration. I am always looking for new technologies and methods for my professional and personal development. Get in touch or send me a message through "[Linkedin](https://www.linkedin.com/in/luis-felipe-pereira-dos-reis-63756428b/)".
 
 ---
 
-**`Analise e Desenvolvimento de Sistemas / Administrador de Banco de Dados / Administrador de Redes`**
+**`Analise e Desenvolvimento de Sistemas | Administrador de Banco de Dados | Administrador de Redes`**
 
 Olá, Me chamo Luis Felipe, tenho 24 anos, atualmente residente sem Santa Catarina - Florianópolis/São José. Formado em Sistema de Informação. Ja trabalhei como Programador na Procuradoria Geral do Estado de Santa Caratarina e Administrador de Redes na Secretária de Estado de Administração. Tenho experiência tanto com Desenvolvimento de Sistemas, Administrador de Banco de dados e Administrador de Redes. Estou sempre procurando tecnologias e metodos novos para meu desenvolvimente profissional e pessoal.
 Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linkedin.com/in/luis-felipe-pereira-dos-reis-63756428b/)".
