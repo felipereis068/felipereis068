@@ -199,10 +199,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" 
 />
 <br/>
-<br/>
-<br/>
-
-
 ### 📊 Estatísticas
 </p>
 
