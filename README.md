@@ -164,22 +164,7 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Gitlab" 
-    title="Gitlab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"  
-/>
-<img 
-    align="left" 
-    alt="Yaml" 
-    title="Yaml"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" 
-/>
+
 <br>
 
 ---
