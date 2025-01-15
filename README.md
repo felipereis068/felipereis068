@@ -35,7 +35,7 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
 
 ---
 ### 🤖 Linguagens e Tecnologias
-
+<div>
 <img 
     align="left" 
     alt="Python" 
@@ -173,6 +173,8 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+
+<div/>
 
 <br>
 
