@@ -100,22 +100,16 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg"
 />
-<img 
+
+  <img 
     align="left" 
-    alt="Kibana" 
-    title="Kibana"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
-<img 
-    align="left" 
-    alt="Logstash" 
-    title="Logstash"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original.svg"
-/>
+  
 <img 
     align="left" 
     alt="Swagger"
@@ -173,15 +167,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
     style="padding-right: 10px;" 
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
-  
-  <img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
   <img 
     align="left" 
     alt="Yarn" 
@@ -201,6 +186,8 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
 </div>
 </br>
 </br>
+
+---
 
 ### 📊 Estatísticas
 
