@@ -35,7 +35,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
 
 ---
 ### 🤖 Linguagens e Tecnologias
-
 <div class="center">
 <img 
     align="left" 
@@ -167,20 +166,37 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
 /> 
   <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
+  <img 
+    align="left" 
+    alt="Yarn" 
+    title="Yarn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg"
+/>
+  <img 
+    align="left" 
+    alt="Yaml" 
+    title="Yaml"
+    width="30px" 
+    style="padding-right: 10px;" 
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+  
 </div>
 </br>
+</br>
+
 
 ---
 
 ### 📊 Estatísticas
 
-</br>
 </p>
 
   <img 
