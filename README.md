@@ -35,6 +35,7 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
 
 ---
 ### 🤖 Linguagens e Tecnologias
+
 <div class="center">
     <img 
         alt="Python" 
@@ -133,8 +134,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
 </div>
-
-<br>
 
 ---
 
