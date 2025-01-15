@@ -202,9 +202,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
 </br>
 </br>
 
-
----
-
 ### 📊 Estatísticas
 
 </p>
