@@ -31,11 +31,11 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
             src="https://custom-icon-badges.demolab.com/github/followers/felipereis068?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</div>
+</p>
 
 ---
 ### 🤖 Linguagens e Tecnologias
-<div>
+<p class="center">
 <img 
     align="left" 
     alt="Python" 
