@@ -169,7 +169,6 @@ Entre em contato ou envie uma mensagem atraves do "[Linkedin](https://www.linked
 
 </div>
 </br>
-</br>
 
 ---
 
