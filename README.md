@@ -1,31 +1,58 @@
-# 👨🏻‍💻 Luis Felipe Reis
+# Hi, I'm Luis Felipe 👋
 
-**`Systems Engineer | Backend Developer | Platform Infrastructure`**
+Software Engineer focused on backend development, infrastructure and AI-powered systems.
 
-Hello! My name is Luis Felipe. I am a Systems Engineer focused on backend development, platform infrastructure and system integration.
+## 🚀 About me
 
-Currently working with the development and evolution of institutional systems used in government environments, including integration between platforms, APIs and container-based infrastructure.
+- Software Engineer working with Python, Django and modern web technologies
+- Experience building institutional systems and integrating government platforms
+- Interested in Platform Engineering, distributed systems and AI applications
 
-I have experience building applications using **Python (Django / Flask)** and **JavaScript (React / Next.js)**, integrating systems through **REST APIs and SOAP Web Services**, as well as managing data platforms and containerized infrastructure.
+## 🧠 Current work
 
-My work also involves **Docker, Kubernetes, Linux environments, CI/CD pipelines and database management**, contributing to the modernization and interoperability of digital services.
+Currently working on **Miner**, an intelligent document analysis platform for legal systems.
 
-I am particularly interested in **System Architecture, Platform Engineering and scalable infrastructure for distributed systems**.
+Main features:
 
-📎 Connect with me on **[LinkedIn](https://www.linkedin.com/in/luis-felipe-pereira-dos-reis-63756428b/)**
+- Semantic search using **Elasticsearch**
+- **RAG (Retrieval Augmented Generation)**
+- Generative AI using **local LLM models (Ollama)**
+- Backend with **Django**
+- Frontend with **Next.js**
+- Containerized architecture with **Docker**
 
----
+## 🛠 Tech stack
 
-**`Engenharia de Sistemas | Backend | Infraestrutura de Plataformas`**
+Backend
+- Python
+- Django
+- Flask
 
-Olá! Meu nome é Luis Felipe.
+Frontend
+- React
+- Next.js
+- JavaScript
 
-Sou um profissional de tecnologia focado em **engenharia de sistemas, desenvolvimento backend e infraestrutura de plataformas**, com experiência no desenvolvimento e evolução de sistemas institucionais utilizados em ambientes governamentais.
+DevOps / Infrastructure
+- Docker
+- Kubernetes
+- Linux
+- CI/CD
+- GitHub Actions
 
-Atuo na construção de aplicações utilizando **Python (Django / Flask)** e **JavaScript (React / Next.js)**, integração de sistemas por meio de **APIs REST e Web Services SOAP**, além da administração de bancos de dados e infraestrutura baseada em containers.
+Data / Search
+- PostgreSQL
+- Elasticsearch
 
-Também trabalho com **Docker, Kubernetes, ambientes Linux e pipelines de CI/CD**, participando da implantação e sustentação de plataformas digitais e serviços voltados à integração e interoperabilidade de sistemas.
+AI
+- RAG
+- LLM
+- Ollama
 
-Tenho interesse especial em **Arquitetura de Sistemas, Platform Engineering e infraestrutura de aplicações escaláveis**.
+## 📫 Contact
 
-📎 Entre em contato pelo **[LinkedIn](https://www.linkedin.com/in/luis-felipe-pereira-dos-reis-63756428b/)**
+LinkedIn  
+https://www.linkedin.com/in/luis-felipe-pereira-dos-reis
+
+GitHub  
+https://github.com/felipereis068
