@@ -1,6 +1,6 @@
 # Hi, I'm Luis Felipe 👋
 
-Software Engineer focused on backend development, infrastructure and AI-powered systems.
+Software Engineer | Netowork Administration DevOps| focused on backend development, infrastructure and AI-powered systems.
 
 ## 🚀 About me
 
